@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Nam\\Bow Valley College\\Fall 2024\\SODV2101\\Assignment2\\Assignment2.csproj": {}
+    "C:\\Nam\\Bow Valley College\\Fall 2024\\SODV2101\\SODV2101-Asssignment2\\Assignment2.csproj": {}
   },
   "projects": {
-    "C:\\Nam\\Bow Valley College\\Fall 2024\\SODV2101\\Assignment2\\Assignment2.csproj": {
+    "C:\\Nam\\Bow Valley College\\Fall 2024\\SODV2101\\SODV2101-Asssignment2\\Assignment2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Nam\\Bow Valley College\\Fall 2024\\SODV2101\\Assignment2\\Assignment2.csproj",
+        "projectUniqueName": "C:\\Nam\\Bow Valley College\\Fall 2024\\SODV2101\\SODV2101-Asssignment2\\Assignment2.csproj",
         "projectName": "Assignment2",
-        "projectPath": "C:\\Nam\\Bow Valley College\\Fall 2024\\SODV2101\\Assignment2\\Assignment2.csproj",
+        "projectPath": "C:\\Nam\\Bow Valley College\\Fall 2024\\SODV2101\\SODV2101-Asssignment2\\Assignment2.csproj",
         "packagesPath": "C:\\Users\\pnam0\\.nuget\\packages\\",
-        "outputPath": "C:\\Nam\\Bow Valley College\\Fall 2024\\SODV2101\\Assignment2\\obj\\",
+        "outputPath": "C:\\Nam\\Bow Valley College\\Fall 2024\\SODV2101\\SODV2101-Asssignment2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pnam0\\AppData\\Roaming\\NuGet\\NuGet.Config",
