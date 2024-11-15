@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Nam\\Bow Valley College\\Fall 2024\\SODV2101\\SODV2101-Asssignment2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D556AB7-FD69-43F0-AFC3-8DBA744398F0}|Assignment2.csproj|C:\\Nam\\Bow Valley College\\Fall 2024\\SODV2101\\SODV2101-Asssignment2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2D556AB7-FD69-43F0-AFC3-8DBA744398F0}|Assignment2.csproj|c:\\nam\\bow valley college\\fall 2024\\sodv2101\\sodv2101-asssignment2\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{2D556AB7-FD69-43F0-AFC3-8DBA744398F0}|Assignment2.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D556AB7-FD69-43F0-AFC3-8DBA744398F0}|Assignment2.csproj|c:\\nam\\bow valley college\\fall 2024\\sodv2101\\sodv2101-asssignment2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2D556AB7-FD69-43F0-AFC3-8DBA744398F0}|Assignment2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D556AB7-FD69-43F0-AFC3-8DBA744398F0}|Assignment2.csproj|c:\\nam\\bow valley college\\fall 2024\\sodv2101\\sodv2101-asssignment2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2D556AB7-FD69-43F0-AFC3-8DBA744398F0}|Assignment2.csproj|C:\\Nam\\Bow Valley College\\Fall 2024\\SODV2101\\SODV2101-Asssignment2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D556AB7-FD69-43F0-AFC3-8DBA744398F0}|Assignment2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -22,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Nam\\Bow Valley College\\Fall 2024\\SODV2101\\SODV2101-Asssignment2\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Nam\\Bow Valley College\\Fall 2024\\SODV2101\\SODV2101-Asssignment2\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-11-15T15:58:52.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Nam\\Bow Valley College\\Fall 2024\\SODV2101\\SODV2101-Asssignment2\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Form1.Designer.cs",
@@ -39,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Nam\\Bow Valley College\\Fall 2024\\SODV2101\\SODV2101-Asssignment2\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Nam\\Bow Valley College\\Fall 2024\\SODV2101\\SODV2101-Asssignment2\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
